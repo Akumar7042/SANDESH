@@ -1,9 +1,12 @@
-# SANDESH
+#SANDESH
 
-Chat_Sever(TCP)
-Communication Programm Using To Chat With Text Encryption. 
----------------How To Run------------------
-step 1: Open Terminal In Terminal Type
-@root:git clone https://github.com/Akumar7042/SANDESH.git
-@root/SANDESH:python server.py                                               ///Firstly Run Server i.e server.py using//// 
-@root/SANDESH:python sandesh.py <hostname> <port> <password> <nick_name>    ///Change hostname,port,password, in sandesh.conf File///
+##This Is A Chat Server Using Socket Programming , By Which You Can Chat With Any One All Over World.
+##Chat With Text Encryption
+##Full-Duplex Network Mode.
+
+######Step To Run :
+-Step 1:Open Terminal Uisng ctrl+alt+t
+-step 2:root@user:git clone https://github.com/Akumar7042/SANDESH.git
+-step 3:root@user:cd SANDESH
+-step 4:root@user/SANDESH:python server.py //Starting Server,You Have To Forward Port For Chat Over Internet
+-step 5:root@user/SANDESH:python <hostname> <port> <password> <Nickname> //To Connect With Chat Server 
