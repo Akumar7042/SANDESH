@@ -4,6 +4,9 @@
 ### Chat With Text Encryption 
 
 ### `Step` `To` `Run` : 
+
+>Linux 
+
 `Step1` : 
 
 - Open Terminal Uisng `ctrl+alt+t` 
